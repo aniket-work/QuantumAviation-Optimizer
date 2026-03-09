@@ -1,0 +1,5 @@
+qrisp
+networkx
+matplotlib
+Pillow
+requests
